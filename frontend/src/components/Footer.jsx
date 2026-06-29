@@ -8,7 +8,7 @@ const Footer = () => {
                 <div>
                     <img src={assets.logo} className='-mt-2 mb-4 w-36'></img>
                     <p className='w-full md:w-3/4 text-gray-600 leading-7'>
-                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dicta, velit reprehenderit unde alias voluptate dolore cum repellendus, in accusamus officia necessitatibus. Id doloribus blanditiis dignissimos a deleniti! Veritatis, modi cum?
+                       OutfitZone is your destination for modern, stylish, and affordable fashion. We believe that great style should be accessible to everyone, which is why we carefully curate collections that combine quality, comfort, and the latest trends. Whether you're looking for everyday essentials or statement pieces, OutfitZone is committed to helping you express your unique style with confidence. Shop with ease, enjoy a seamless experience, and discover fashion that fits your lifestyle.
                     </p>
                 </div>
                 <div>
